@@ -76,8 +76,8 @@ props_df = pd.DataFrame(results, columns=["Infections", "Traces"])
 
 # Plotting the results
 plt.figure(figsize=(10, 6))
-sns.histplot(props_df['Infections'], color="blue", alpha=0.75, binwidth=0.05, kde=False, label='Infections from Weddings')
-sns.histplot(props_df['Traces'], color="red", alpha=0.75, binwidth=0.05, kde=False, label='Traced to Weddings')
+sns.histplot(props_df['Infections'], color="blue", alpha=0.75, bins=20, kde=False, label='Infections from Weddings')
+sns.histplot(props_df['Traces'], color="red", alpha=0.75, bins=20, kde=False, label='Traced to Weddings')
 plt.xlabel("Proportion of cases")
 plt.ylabel("Frequency")
 plt.title("Impact of Contact Tracing on Perceived Infection Sources")
