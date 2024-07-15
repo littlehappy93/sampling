@@ -16,25 +16,28 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#2`
 
 Describe the purpose of your survey:
 ```
 write your answer here...
-```
+```The purpose of this survey is to understand voter priorities and preferences for our party and its leader, in order to maintain our lead and win the upcoming federal election.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
-```
+```Target Population: Eligible voters in Canada who are likely to vote in the upcoming federal election.
+Sampling Frame: A database of registered voters, potentially augmented by publicly available polling data and voter registration lists.
+Sampling Units: Individual eligible voters from the target population.
+Overall Sampling Strategy: A stratified random sampling strategy will be used to ensure representation across different provinces, age groups, and other demographic factors.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
+1. How likely are you to vote in the upcoming federal election? (Very likely, Likely, Unlikely, Very unlikely)
+2. Which issues are most important to you in deciding which party to support? (Select up to three: Economy, Healthcare, Education, Environment, Immigration, National Security, Social Issues, Other)
+3. On a scale of 1 to 5, how satisfied are you with the current leadership of our party? (1 being very dissatisfied and 5 being very satisfied)
+4. What policies or actions by our party would make you more likely to vote for us? (Open-ended)
+5. How do you perceive our party’s ability to address the key issues facing the country? (1 being very poor and 5 being excellent)
 6. write your question here... (optional)
 7. write your question here... (optional)
 8. write your question here... (optional)
