@@ -5,18 +5,95 @@
 
     ```
     write your answer here...
-    ```
+    ```The quality of the sample is expected to be high due to the use of a stratified random sampling strategy. By ensuring representation across different provinces, age groups, and other demographic factors, the sample should be representative of the target population of eligible voters in Canada. This method reduces sampling bias and ensures that the opinions of various demographic groups are proportionately represented.
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    write your answer here...1.How likely are you to vote in the upcoming federal election?
+
+Very likely
+Likely
+Unlikely
+Very unlikely
+
+2.Which issues are most important to you in deciding which party to support? (Select up to three)
+
+Economy
+Healthcare
+Education
+Environment
+Immigration
+National Security
+Social Issues
+Other
+
+3.On a scale of 1 to 5, how satisfied are you with the current leadership of our party?
+
+1 (Very dissatisfied)
+2
+3
+4
+5 (Very satisfied)
+
+4.What policies or actions by our party would make you more likely to vote for us? (Open-ended)
+
+5.How do you perceive our party’s ability to address the key issues facing the country?
+
+1 (Very poor)
+2
+3
+4
+5 (Excellent)
+
+Revised Survey Questions:
+1.How likely are you to vote in the upcoming federal election?
+
+Very likely
+Likely
+Somewhat likely
+Unlikely
+Very unlikely
+
+2.Which issues are most important to you in deciding which party to support? (Select up to three)
+
+Economy
+Healthcare
+Education
+Environment
+Immigration
+National Security
+Social Issues
+Other (please specify)
+
+3.On a scale of 1 to 5, how satisfied are you with the current leadership of our party?
+
+1 (Very dissatisfied)
+2
+3
+4
+5 (Very satisfied)
+
+4.What policies or actions by our party would make you more likely to vote for us? (Open-ended)
+
+5.How do you perceive our party’s ability to address the key issues facing the country?
+
+1 (Very poor)
+2
+3
+4
+5 (Excellent)
+
+Changes and Reasoning:
+Likert Scale Adjustments: Added "Somewhat likely" to questions 1 and 5 to provide more granularity and capture nuanced responses.
+Open-ended Clarifications: Added "please specify" to open-ended options to gather more detailed feedback.
+Wording Adjustments: Minor changes in wording for clarity and better understanding.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    write your answer here...No, the purpose of the survey could not be fulfilled through an observational study because it requires gathering subjective opinions, specific feedback, and direct interaction with voters to understand their priorities and preferences. Observational studies cannot capture these detailed insights and nuanced preferences necessary for tailoring campaign strategies.
     ```
 
 ## Why am I doing this assignment?
@@ -52,3 +129,4 @@ Checklist:
 - [ ] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+
